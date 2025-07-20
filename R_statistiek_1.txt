@@ -27,11 +27,11 @@ normal: CI for μ using t
 not normal: transform then...
 
 - 2 groups
-independent
+independent:
 normal: CI for μ₁ - μ₂ using t
 not normal: Wilcoxon-Mann-Whitney or transform then...
 
-dependent
+dependent:
 normal: CI for μₚ using paired t
 not normal: Wilcoxon Signed-Rank test or Sign test or transform
 then...
