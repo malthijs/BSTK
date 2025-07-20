@@ -46,7 +46,7 @@ standaard normaalverdeling
 * voorbeeld *
 pnorm(q = 90, mean = 80, sd = 6) = 0.9522 = 95.22%
 
-[*prediction interval*]
+[*empirical rule*]
 Data is normaal verdeeld indien:
 - 68.26% ligt binnen ± 1 SD
 - 95.44% ligt binnen ± 2 SD

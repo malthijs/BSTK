@@ -1,22 +1,9 @@
-[*sample mean*]
-De standaarddeviatie van steekproefwaarnemingen is
-een factor √(n) kleiner dan de standaarddeviatie
-van individuele waarnemingen:
+[*square root law*]
+De standaarddeviatie van steekproefwaarnemingen is een factor √(n)
+kleiner dan de standaarddeviatie van individuele waarnemingen:
+σₓ = σ/√(n)
 
-σₓ = σ/√(n)     Wortel-n-wet
-
-[*populatie en steekproef*]
-50% van de vrouwen < 1.62m
-Op basis van een steekproef van 5000 vrouwen
-
-Wanneer is een gevonden waarde significant verschillend
-van μ?
-
-Toets uitvoeren!
-- z-toets
-- t-toets
-
-[*bepalen van alfa*]
+[*choosing alpha*]
 α = kans dat de gevonden waarde alleen verklaard wordt door de
 bestaande variatie (=toeval)
 
