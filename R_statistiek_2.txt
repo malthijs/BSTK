@@ -46,6 +46,12 @@ standaard normaalverdeling
 * voorbeeld *
 pnorm(q = 90, mean = 80, sd = 6) = 0.9522 = 95.22%
 
+[*prediction interval*]
+Data is normaal verdeeld indien:
+- 68.26% ligt binnen ± 1 SD
+- 95.44% ligt binnen ± 2 SD
+- 99.74% ligt binnen ± 3 SD
+
 [*normal probability plot*]
 Een grafiek die op basis van een referentielijn aangeeft of data
 normaal of niet-normaal verdeeld is

@@ -5,12 +5,6 @@ van individuele waarnemingen:
 
 σₓ = σ/√(n)     Wortel-n-wet
 
-[*prediction interval*]
-Data is normaal verdeeld indien:
-- 68.26 % ligt binnen ± 1 SD
-- 95.44 % ligt binnen ± 2 SD
-- 99.74 % ligt binnen ± 3 SD
-
 [*populatie en steekproef*]
 50% van de vrouwen < 1.62m
 Op basis van een steekproef van 5000 vrouwen
